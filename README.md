@@ -1,7 +1,7 @@
 # Mini-RGB
 WS2812B RGB LED control project with mobile application.
 
-##Materials needed for the project:
+## Materials needed for the project:
 
 
 -Nodemcu ESP8266/ ESP01
@@ -9,7 +9,7 @@ WS2812B RGB LED control project with mobile application.
 -Cable
 
 
-##Setup:
+## Setup:
 
 - Download and install the appropriate driver for your esp card.
 - Download the ESPHome-Flasher application.
