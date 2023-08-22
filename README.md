@@ -4,9 +4,9 @@ WS2812B RGB LED control project with mobile application.
 ## Materials needed for the project:
 
 
--Nodemcu ESP8266/ ESP01
--WS2812B RGB LED
--Cable
+- Nodemcu ESP8266/ ESP01
+- WS2812B RGB LED
+- Cable
 
 
 ## Setup:
